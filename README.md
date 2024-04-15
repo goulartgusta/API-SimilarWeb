@@ -1,9 +1,9 @@
 # API SimilarWeb
 
-API realizada utilizando as bibliotecas pandas e openpyxl, com conexão a API do google sheets. Nós extraímos os dados no formato JSON com a ajuda da API do SimilarWeb, transformando em Dataframe, tratamos e carregamos no excel e no google sheets os dados de tráfego dos varejos e dados por de tráfego por canal.
+API realizada utilizando as bibliotecas pandas e openpyxl, com integração à API do Google Sheets. Os dados são extraídos no formato JSON usando a API do SimilarWeb, transformando-os em DataFrames. Em seguida, os dados são tratados com Pandas e OpenpyXL e carregados em planilhas do Excel e do Google Sheets, fornecendo informações sobre o tráfego de varejo e o tráfego por canal em instantes.
 
-API realizada com o intuito de otimizar o tempo e energia gasto na extração dos dados dentro do site, melhorando o tempo gasto para termos os dados do site.
+O objetivo da API vem para otimizar o tempo e a energia gastos na extração de dados diretamente do site, reduzindo o tempo necessário para obter informações importantes.
 
-Credenciais escondidas e protegidas, se for necessário um pull do código, será necessário ter as credenciais necessárias para as chaves das APIs do SimilarWeb e Google Sheets, fora autorizações necessárias para o bom funcionamento do código.
+As credenciais estão protegidas e ocultas. Para acessar o código, é necessário possuir as credenciais para as chaves das APIs do SimilarWeb e do Google Sheets, além das autorizações necessárias para o funcionamento do código.
 
-Projeto está sendo incluído no Github de maneira crua, será realizado otimizações na organização e boas práticas no código.
+O projeto está sendo adicionado ao GitHub em sua forma "crua". mas, planejo realizar otimizações na organização e adotar boas práticas no projeto, assim garanto uma melhor manutenção e compreensão do código. ;)
