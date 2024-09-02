@@ -11,7 +11,7 @@ O principal objetivo da API é otimizar o tempo e o esforço necessários na ext
 Para garantir a segurança, as credenciais estão protegidas e ocultas. O funcionamento do código requer credenciais (Keys) para as APIs do SimilarWeb e Google Sheets, também é necessíaro as autorizações dessas chaves. Para o uso correto, basta atualizar as credenciais com suas prórpias.
 
 ## Planejamento Futuro
-O projeto está atualmente disponível em sua forma inicial, mas tenho planos para algumas melhorias na organização e boas práticas de programação. Facilitando a manutenção e garantindo uma boa compreensão do código.
+O projeto está atualmenteem sua forma inicial, mas tenho planos para algumas melhorias na organização e boas práticas de programação. Facilitando a manutenção e garantindo uma boa compreensão do código.
 
 > Otimizações Planejadas:
 - Implementação de boas práticas de programação para otimizar laços e estruturas de código.
